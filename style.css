@@ -1,0 +1,19 @@
+.form-group {
+    max-width: 450px;
+}
+
+.button-container {
+    margin-top: 20px;
+}
+
+body {
+    background: #6d92e846;
+}
+
+.content-wrapper {
+    background-color: rgba(0, 51, 255, 0.438);
+    padding: 20px;
+    width: fit-content; /* Establecer el ancho del div según el contenido */
+    margin: 0 auto; /* Centrar el div horizontalmente */
+    border-radius: 10px; /* Agregar bordes redondeados */
+}
